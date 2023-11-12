@@ -1,0 +1,7 @@
+.MoviesListCards {
+    border: 1px solid;
+    border-radius: 20px;
+    margin: 5px;
+    width: calc(20% - 14px);
+    background-color:rgb(67, 110, 175);
+}
